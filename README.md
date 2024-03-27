@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raze Hama</h1>
-<h3 align="center">I'm managing Clm</h3>
+<h3 align="center">I'm Managing Clm</h3>
 <img align="right" alt="Coding" width="400" src="https://s12.gifyu.com/images/SVq6b.png">
 
 - 🔭 I’m currently working on **Hosting**
